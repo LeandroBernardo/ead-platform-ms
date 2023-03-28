@@ -7,6 +7,4 @@ The project is divided into several independent microservices, each with its spe
 
 The system also includes features such as customized user profiles, student progress monitoring, online assessments, and payments. Additionally, there is integration with other E-Learning tools such as Moodle and Blackboard.
 
-The technology used to develop this project includes Spring Boot, Spring Security, Spring Data JPA, Netflix Eureka, Zuul Gateway, and RabbitMQ. The database used is MySQL.
-
-This project is intended to be used by small to medium-sized educational institutions seeking a robust and scalable E-Learning solution.
+The technology used to develop this project includes Spring Boot, Spring Security, Spring Data JPA, Netflix Eureka, Zuul Gateway, and RabbitMQ. 
